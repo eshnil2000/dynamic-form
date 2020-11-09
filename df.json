@@ -1,0 +1,9 @@
+{
+  "solar":{
+    "roof":["a","b","c"]
+  },
+  "wind":{
+    "location":["e","f","g"]
+  }
+  
+}
